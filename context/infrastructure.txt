@@ -1,0 +1,20 @@
+! CONTEXT:
+	/protocol/
+		&<http://if.fault.io/project/infrastructure>
+
+/Projects/
+	- &..meta
+
+/*.c/
+	- (type)&<http://if.fault.io/factors/system#c.2011>
+/*.h/
+	- (type)&<http://if.fault.io/factors/system#c.header>
+
+/*.txt/
+	- (type)&<http://if.fault.io/factors/text.chapter#kleptic.fault-1>
+
+/*.py/
+	- (type)&<http://if.fault.io/factors/python.module#python.psf-v3>
+
+/*.pyi/
+	- (type)&<http://if.fault.io/factors/python.interface#python.psf-v3>

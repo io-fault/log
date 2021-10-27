@@ -1,0 +1,17 @@
+! CONTEXT:
+	/protocol/
+		&<http://if.fault.io/project/information>
+
+/identifier/
+	&<http://fault.io/log/context>
+/icon/
+	- (emoji)`📰`
+/name/
+	`log`
+/abstract/
+	fault.io development log.
+
+/authority/
+	`fault.io`
+/contact/
+	&<http://fault.io/critical>
