@@ -1,18 +1,16 @@
 [ Abandoned Pathways ]
 
 The projects being developed under fault.io are primarily an exploration of a path, apparently,
-abandoned by others. The economic model commonly employed within the software
-industry made some of these paths difficult or impossible to justify during its evolution.
-Despite the lack of economic support, these paths are compelling and offer much to developers.
+abandoned by the industry. Use of the works is not encouraged beyond the analysis of a solution.
 
-[ System Defined Construction Contexts ]
+[ > System Defined Construction Contexts ]
 
 Software build systems are often little more than rule based shell scripting, e.g. `*make`.
 The issue of adapting to a target Execution Platform is a problem to be handled by the
 author of the software and the packagers that wish integrate it within their environment,
 customized or not. Dependencies are resolved using system specific parameters sets.
 
-This practice limits the software to the target platforms supported by the maintainers.
+This practice limits software to the target platforms supported by the maintainers.
 
 The status quo is sufficient, but requires redundant effort. Construction Contexts seek to reduce the
 effort by using Factor Types to identify the semantics of a part of a project. The context
